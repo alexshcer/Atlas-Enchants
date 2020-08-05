@@ -1,0 +1,39 @@
+############################
+#COLORS GLOW:
+#BLACK
+#DARK_BLUE
+#DARK_GREEN
+#DARK_AQUA
+#DARK_RED
+#DARK_PURPLE
+#GOLD
+#GRAY
+#DARK_GRAY
+#BLUE
+#GREEN
+#AQUA
+#RED
+#PURPLE
+#YELLOW
+#WHITE
+#NONE
+############################
+tag-prefix: "&6&lAtlasEnchants"
+type-of-customItem: HEART_OF_THE_SEA
+lore-of-customItem: "&7If you want use it or set this empty"
+enchant-error-message: "&cYou can't use more than one enchant item."
+max-enchant-message: "&cYou already reached the max level of the enchant"
+inventory-full-message-onopen: "&cYour inventory is full or you haven't 2 free slots."
+inventory-full-message-onclose: "&cYour inventory is full. Your items are on the ground!"
+no-diamond: "&cYou don't have enough diamonds to upgrade it."
+amount-of-diamonds-to-level-2: 10
+amount-of-diamonds-to-level-3: 15
+radius-of-glowing-1: 5
+radius-of-glowing-2: 10
+radius-of-glowing-3: 15
+perc-random-enchant-1: 50
+perc-random-enchant-2: 25
+perc-random-enchant-3: 10
+color-glow-monsters: DARK_RED
+color-glow-passive-mobs: DARK_GREEN
+color-glow-player-villager: WHITE

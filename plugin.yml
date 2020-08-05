@@ -1,0 +1,10 @@
+version: 1.5.0
+author: MrAlby
+main: com.mralby.atlasenchants.Main
+api-version: 1.13
+name: AtlasEnchants
+description: Plugin that glows players and mobs near you if you have a helmet with the right enchant
+depend: [ArmorEquipEvent, GlowAPI, PacketListenerApi]
+commands:
+  ae:
+    description: Plugin created by MrAlby
